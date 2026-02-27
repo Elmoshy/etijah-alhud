@@ -1,0 +1,11 @@
+{
+  "appId": "com.etijah.alhuda",
+  "appName": "ETIJAH ALHUDA",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": true
+  }
+}
